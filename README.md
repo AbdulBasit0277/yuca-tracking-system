@@ -305,13 +305,13 @@ Before running the application, ensure that you have:
 Replace the placeholder below with your actual GitHub repository URL.
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/AbdulBasit0277/yuca-tracking-system.git
 ```
 
 Navigate into the project directory:
 
 ```bash
-cd <YOUR_PROJECT_DIRECTORY>
+cd yuca-tracking-system
 ```
 
 ### Step 2: Configure the Database
